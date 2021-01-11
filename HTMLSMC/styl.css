@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: white;
+}
+
+h1 {
+  color: white;
+}
+
+/* unvisited link */
+a:link {
+  font-weight: bold;
+  text-decoration: none;
+  color: rgb(4,4,123)
+}
+
+/* visited link */
+a:visited {
+
+}
+
+/* mouse over link */
+a:hover {
+ color: yellow;
+}
+
+/* selected link */
+a:active {
+  color: red;
+}
